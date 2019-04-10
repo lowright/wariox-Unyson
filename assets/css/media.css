@@ -1,0 +1,24 @@
+
+@media (max-width: 782px) { 
+    .fw-container{
+        width: 750px;
+    }
+}
+
+@media (min-width: 783px) and (max-width: 900px) { 
+    .fw-container{
+        width: 970px;
+    }
+}
+
+@media (min-width: 901px) and (max-width: 1199px) { 
+    .fw-container{
+        width: 1170px;
+    }
+}
+
+@media (min-width: 1200px) { 
+    .fw-container{
+        width: 1170px;
+    }
+}
